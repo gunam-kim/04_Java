@@ -6,6 +6,13 @@ import view.StudentView;
  * : Java 프로그램 실행용 클래스
 */
 
+/* 생성자
+ * : 객체가 생성될 때 수행할 명령어를 작성한 특수한 메서드
+ * : 객체 생성 시 1회만 수행
+ * : 모든 클래스에는 생성자가 최소 1개 이상 존재
+ * (단, 하나도 작성되지 않으면 컴파일러가 기본 생성자 추가)
+*/
+
 public class StudentRun {
 	public static void main(String[] args) {
 		
